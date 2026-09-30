@@ -1,5 +1,7 @@
 # Kathapong Makrung
 
+My earlier contributions were made under [@kathapong123](https://github.com/kathapong123). Both accounts belong to me; [@KMluvcod11](https://github.com/KMluvcod11) is my main portfolio profile.
+
 Fourth-year Computer Science student at the University of the Thai Chamber of Commerce (UTCC), focused on **AI application development and backend engineering**.
 
 **Available for a co-op internship: January–April 2027.**
