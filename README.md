@@ -1,12 +1,10 @@
 # Kathapong Makrung
 
-My earlier contributions were made under [@kathapong123](https://github.com/kathapong123). Both accounts belong to me; [@KMluvcod11](https://github.com/KMluvcod11) is my main portfolio profile.
+Fourth-year Computer Science student at the University of the Thai Chamber of Commerce (UTCC), seeking a co-op internship from January to April 2027.
 
-Fourth-year Computer Science student at the University of the Thai Chamber of Commerce (UTCC), focused on **AI application development and backend engineering**.
+I am interested in software development, backend systems, and practical AI applications. Through university and team projects, I have worked on APIs, databases, web applications, and Android development.
 
-**Available for a co-op internship: January–April 2027.**
-
-I enjoy building practical applications that connect AI with backend systems. I am interested in using these skills to support learning and improve workplace processes, including in engineering and transportation.
+I am looking for an opportunity to contribute to a development team, learn from code reviews, and improve my skills by working on real-world problems.
 
 ## Selected projects
 
@@ -27,3 +25,7 @@ These include collaborative projects. My CV describes my AI/backend, full-stack,
 - **Automation:** n8n
 
 Project READMEs explain implementation details, setup, and limitations.
+
+## Earlier contributions
+
+My earlier contributions were made under [@kathapong123](https://github.com/kathapong123). Both accounts belong to me; [@KMluvcod11](https://github.com/KMluvcod11) is my main portfolio profile.
